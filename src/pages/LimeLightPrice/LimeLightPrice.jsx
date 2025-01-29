@@ -1,5 +1,6 @@
 import React, { useState } from "react";
-import img from "../../assets/images/ChooseKingdomItem1.png";
+
+
 import { FaCircleCheck } from "react-icons/fa6";
 const LimeLightPrice = () => {
   const [selectedPrice, setSelectedPrice] = useState("Pay-Per-Use");
